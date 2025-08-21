@@ -7,6 +7,15 @@ The purpose of this project is to help stakeholders in the **hospitality domain*
 
 ---
 
+## 🎯 Purpose
+This project is designed as a **portfolio project for Data Analytics & Business Intelligence** showcasing:  
+- Data modeling with fact & dimension tables  
+- Advanced DAX calculations for KPIs  
+- End-to-end BI dashboard design  
+- Actionable insights for business users in the hospitality industry  
+
+---
+
 ## 🚀 Tech Stack
 - **Power BI** → Data visualization and dashboarding  
 - **SQL / DAX** → Data modeling, calculated measures & KPIs  
@@ -67,5 +76,3 @@ Here’s a snapshot of the interactive dashboard:
 ![Dashboard Demo](./Dashbord%20screenshort.png)
 
 ---
-
-## 📂 Repository Structure
